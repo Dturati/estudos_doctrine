@@ -10,8 +10,8 @@ $paths = array(__DIR__."/src/Entities");
 $dbParams = [
     'driver'    =>  'pdo_mysql',
     'user'      =>  'root',
-    'password'  =>  'root',
-    'dbname'    =>  'hibernate',
+    'password'  =>  '123',
+    'dbname'    =>  'teste',
     'host'      =>  'localhost'
 ];
 
